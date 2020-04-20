@@ -1,0 +1,10 @@
+Programming assignment is as below:
+
+1. Create struct for Student and create print method to print it. Include contact details struct in it.
+
+2. Update Some information of that student. Use pointer.
+Write Update function for it.
+
+3. Test cases for checking contact details of student and age.
+
+4. Save student info into file.

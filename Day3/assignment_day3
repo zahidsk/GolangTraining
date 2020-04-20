@@ -1,0 +1,17 @@
+1. Slice:
+   Create Slice with any data type.
+   Print length of slice.
+   Update Function: Update 5th element of slice with new value
+   Create a different copy of slice and update 6th location. and check both slice are different or not.
+
+2. Map:
+    Create Map for student record, key=Roll Number, Value= Full Name.
+    print roll number and Name of each student
+    Modify Full name of student whose roll number is given (e.g. 5)
+    Remove student record from map who failed in result.
+
+3. Use multiple defer statements which will call any function.
+
+4. Http Get: It should hit url which is passed in function, print response body and return response code.
+
+5. Write at least three use cases of First class function.
