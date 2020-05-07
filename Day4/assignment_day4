@@ -1,0 +1,4 @@
+1. Write a banking software which has 2 types of account Saving and Current
+ - Saving account can have interest while current account does not have the interest
+ - 2 functinality  Deposit and Check Balance
+ also find interest given to saving account

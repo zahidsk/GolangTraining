@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a3dd200-374e-4635-9c86-9fa5a5506957" name="Default Changelist" comment="Few updates">
+      <change afterPath="$PROJECT_DIR$/Day1/my_go_class.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/assignment_day4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/my_bank.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/my_composition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/my_empty_interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/my_interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5/assignment_day5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5/hit_urls_buffC.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5/hit_urls_unbuff.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5/my_buff_channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5/my_goroutine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5/my_unbuff_channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/assignment_day6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/rpc_server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/assignment_day1" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/assignment_day1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1aYo4gQe7V0w63TSGj5Wr6Z0YnB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day3" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shaikh.zahid\GolandProjects\LearnGoProject" />
+      <recent name="C:\Users\shaikh.zahid\GolandProjects\LearnGoProject\Day2" />
+      <recent name="C:\Users\shaikh.zahid\GolandProjects\LearnGoProject\Day1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shaikh.zahid\GolandProjects\LearnGoProject\Day3" />
+      <recent name="C:\Users\shaikh.zahid\GolandProjects\LearnGoProject\Day1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build my_bank.go">
+    <configuration name="go build LearnGoProject main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="|$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hit_urls_buffC.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Day5/hit_urls_buffC.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hit_urls_unbuff.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Day5/hit_urls_unbuff.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build my_bank.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Day4/my_bank.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build my_buff_channel.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Day5/my_buff_channel.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build my_unbuff_channel.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Day5/my_unbuff_channel.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build LearnGoProject main.go" />
+      <item itemvalue="Go Build.go build my_buff_channel.go" />
+      <item itemvalue="Go Build.go build my_unbuff_channel.go" />
+      <item itemvalue="Go Build.go build hit_urls_unbuff.go" />
+      <item itemvalue="Go Build.go build hit_urls_buffC.go" />
+      <item itemvalue="Go Build.go build my_bank.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build my_bank.go" />
+        <item itemvalue="Go Build.go build hit_urls_buffC.go" />
+        <item itemvalue="Go Build.go build hit_urls_unbuff.go" />
+        <item itemvalue="Go Build.go build my_unbuff_channel.go" />
+        <item itemvalue="Go Build.go build my_buff_channel.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment for Day2 and Day3" />
+    <MESSAGE value="Few updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Few updates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="22" key="#GOPATH" timestamp="1586921866201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="22" key="#GOPATH/0.0.1366.728@0.0.1366.728" timestamp="1586921866201" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586921974893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586921974893" />
+    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588597002088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1588597002088" />
+    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587901305175" />
+    <state x="392" y="0" key="#go_build_LearnGoProject_main.go" timestamp="1586922071060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#go_build_LearnGoProject_main.go/0.0.1366.728@0.0.1366.728" timestamp="1586922071060" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586922042116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586922042116" />
+    <state x="548" y="261" key="Github.ShareDialog" timestamp="1587024904463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="548" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587024904463" />
+    <state x="471" y="68" key="Github.UntrackedFilesDialog" timestamp="1587024984296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587024984296" />
+    <state width="1323" height="202" key="GridCell.Tab.0.bottom" timestamp="1588835474370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588835474370" />
+    <state width="1323" height="202" key="GridCell.Tab.0.center" timestamp="1588835474370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588835474370" />
+    <state width="1323" height="202" key="GridCell.Tab.0.left" timestamp="1588835474370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588835474370" />
+    <state width="1323" height="202" key="GridCell.Tab.0.right" timestamp="1588835474370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588835474370" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1587376096031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587376096031" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587313396259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1587313396259" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1587360006840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587360006840" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586922245327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586922245327" />
+  </component>
+</project>

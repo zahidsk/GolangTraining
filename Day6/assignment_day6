@@ -1,0 +1,8 @@
+Day 6: Assignment
+1. Create a RCP banking application where we use interface to define methods which will be used to serve the client requests.
+    Use a slice as a shared resource to store the account details.
+    Make the client requests from goroutines.
+    Use mutex to synchronise the client calls for the requests.
+
+2. Difference between RPC and REST.
+3. Explore RWMutex.

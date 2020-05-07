@@ -1,0 +1,4 @@
+1. Hit Multiple URLs using go routine & print the status code
+2. Channel: Unbuffered channel to pass status code from Go routine to Go routine
+3. Channel try 2 with buffered channel size(size-5)
+4. Read wait Group and Select
